@@ -1,4 +1,10 @@
 [XXXX](#jump)
+
+<p style="background-color:rgb(255,255,0)">
+通过 rbg 值设置背景颜色
+</p>
+
+
 # 真题
 
 * *使用masonry时遇到的问题【阿里Lazada】*
